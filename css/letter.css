@@ -1,0 +1,14 @@
+tei-hi {
+  color: green;
+}
+
+tei-subst > tei-del {
+   display: none;
+   text-decoration: line-through;
+}
+
+
+tei-subst > tei-add {
+   color: blue;
+   cursor: pointer;
+}
